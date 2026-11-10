@@ -14,7 +14,7 @@ Ik ben momenteel op zoek naar een uitdagende stageplaats voor mijn laatste jaar,
 
 ## 💻 Technisch Profiel & Vaardigheden
 
- recruiters zoeken vaak op specifieke rollen binnen een IT-team. Hieronder vind je mijn vaardigheden ingedeeld volgens de expertises die ik tijdens mijn opleiding en enterprise-projecten heb opgebouwd.
+ Hieronder vind je mijn vaardigheden ingedeeld volgens de expertises die ik tijdens mijn opleiding en enterprise-projecten heb opgebouwd.
 
 ### 1. Systeem- & Cloudbeheer (Systems Engineer)
 Ik ben inzetbaar voor het beheren, virtualiseren en inrichten van on-premises en cloud-infrastructuur.
