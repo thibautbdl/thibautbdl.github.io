@@ -2,7 +2,7 @@
 
 # Student Systeem- & Netwerkbeheerder
 
-Hallo! Ik ben **Thibaut Blondeel**, een gedreven IT-student die na de zomer start aan het tweede en laatste jaar van de graduaatsopleiding **Systeem- en Netwerkbeheer** aan HOGENT. 
+Hallo! Ik ben **Thibaut Blondeel**, een gedreven IT-student die gestart is aan het tweede en laatste jaar van de graduaatsopleiding **Systeem- en Netwerkbeheer** aan HOGENT. 
 
 Mijn IT-reis begon met een sterke basis in Boekhouden-Informatica (Sint-Catharinacollege Geraardsbergen). Hoewel ik aanvankelijk startte in de bacheloropleiding Toegepaste Informatica, merkte ik al snel dat mijn kracht ligt in een sterk praktijkgerichte aanpak. Omdat ik bovendien al wist dat mijn echte passie bij systeem- en netwerkbeheer ligt, heb ik heel bewust de overstap gemaakt naar deze tweejarige, hands-on graduaatsopleiding. Mijn eerste jaar heb ik inmiddels succesvol achter de rug.
 
@@ -14,7 +14,7 @@ Ik ben momenteel op zoek naar een uitdagende stageplaats voor mijn laatste jaar,
 
 ## 💻 Technisch Profiel & Vaardigheden
 
- Hieronder vind je mijn vaardigheden ingedeeld volgens de expertises die ik tijdens mijn opleiding en enterprise-projecten heb opgebouwd.
+Hieronder vind je mijn vaardigheden ingedeeld volgens de expertises die ik tijdens mijn opleiding en enterprise-projecten heb opgebouwd.
 
 ### 1. Systeem- & Cloudbeheer (Systems Engineer)
 Ik ben inzetbaar voor het beheren, virtualiseren en inrichten van on-premises en cloud-infrastructuur.
