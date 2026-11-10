@@ -2,7 +2,7 @@
 
 # Student Systems & Network Administrator
 
-Hello! My name is **Thibaut Blondeel**, a passionate IT student who, after the summer, will begin his second and final year of a graduate degree in **Systems and Network Administration** at HOGENT. 
+Hello! My name is **Thibaut Blondeel**, a passionate IT student who is in his second and final year of a graduate degree in **Systems and Network Administration** at HOGENT. 
 
 My journey in IT began with a solid foundation in Accounting-IT (Sint-Catharinacollege Geraardsbergen). Although I initially started a Bachelor's degree in Applied Computer Science, I quickly realized that my strength lay in a highly practical approach. Knowing, moreover, that my true passion was in systems and network administration, I deliberately chose to pivot to this two-year graduate program, which is very concrete and hands-on. I have now successfully completed my first year.
 
@@ -14,7 +14,7 @@ I am currently looking for a challenging internship for my final year, where I c
 
 ## 💻 Technical Profile & Skills
 
-Recruiters often look for specific roles within an IT team. Below you will find my skills classified according to the areas of expertise I developed during my training and enterprise projects.
+Below you will find my skills classified according to the areas of expertise I developed during my training and enterprise projects.
 
 ### 1. Systems Management & Cloud (Systems Engineer)
 I am operational in management, virtualization, and setting up on-premises and cloud infrastructures.
