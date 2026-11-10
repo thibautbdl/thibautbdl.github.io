@@ -2,7 +2,7 @@
 
 # Étudiant Administrateur Systèmes & Réseaux
 
-Bonjour ! Je m'appelle **Thibaut Blondeel**, un étudiant en informatique passionné qui débutera, après l'été, sa deuxième et dernière année de formation graduée en **Administration Systèmes et Réseaux** à la HOGENT. 
+Bonjour ! Je m'appelle **Thibaut Blondeel**, un étudiant en informatique passionné qui est dans sa deuxième et dernière année de formation graduée en **Administration Systèmes et Réseaux** à la HOGENT. 
 
 Mon parcours en informatique a commencé par une base solide en Comptabilité-Informatique (Sint-Catharinacollege Geraardsbergen). Bien que j'aie initialement commencé par un bachelier en Informatique Appliquée, j'ai rapidement réalisé que ma force résidait dans une approche fortement axée sur la pratique. Sachant de surcroît que ma véritable passion se trouvait dans l'administration systèmes et réseaux, j'ai délibérément choisi de me réorienter vers ce cursus gradué de deux ans, très concret et pratique. J'ai désormais validé ma première année avec succès.
 
@@ -14,7 +14,7 @@ Je suis actuellement à la recherche d'un stage stimulant pour ma dernière ann�
 
 ## 💻 Profil Technique & Compétences
 
-Les recruteurs recherchent souvent des rôles spécifiques au sein d'une équipe informatique. Vous trouverez ci-dessous mes compétences classées selon les domaines d'expertise que j'ai développés au cours de ma formation et de mes projets d'entreprise.
+Vous trouverez ci-dessous mes compétences classées selon les domaines d'expertise que j'ai développés au cours de ma formation et de mes projets d'entreprise.
 
 ### 1. Gestion Systèmes & Cloud (Systems Engineer)
 Je suis opérationnel pour la gestion, la virtualisation et la mise en place d'infrastructures sur site (on-premises) et cloud.
